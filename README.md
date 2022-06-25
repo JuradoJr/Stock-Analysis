@@ -5,12 +5,14 @@ In this project, we analyzed two separate sheets with 3,013 rows of data based o
 
 ## Results
 The results of this project showed that it took Excel the same amount of time to run the code for the years 2017 and 2018. The execution time of the original script was notably longer than the new refactored script.
+
 <img width="251" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/104862099/175792319-ae91d969-e63b-4fc1-b425-9a301d90c5d7.png">
 <img width="252" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/104862099/175792321-b663b0c1-dd59-4b49-a072-585562462e0b.png">
 
-As for the returns, in the year 2017, all stocks has positive returns except for “TERP”.
+
+As for the returns, in the year 2017, all stocks has positive returns except for “TERP”. And in the year 2018, all stocks had negative returns with the exceptions of “ENPH” and “RUN”. 
+
 <img width="290" alt="VBA_Challenge_Performances_2017" src="https://user-images.githubusercontent.com/104862099/175792331-263b7a03-12d7-4e2b-b9e5-f27202325e52.png">
- And in the year 2018, all stocks had negative returns with the exceptions of “ENPH” and “RUN”. 
 <img width="286" alt="VBA_Challenge_Performances_2018" src="https://user-images.githubusercontent.com/104862099/175792332-fb14a768-0b59-4c06-b80c-46ef22858c2f.png">
 
 
