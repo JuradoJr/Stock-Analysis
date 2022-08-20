@@ -1,4 +1,5 @@
-VBA Stock Analysis
+# Stock Analysis
+
 ## Overview of Project
 In this project, we analyzed two separate sheets with 3,013 rows of data based on stocks in the years 2017 and 2018. There were a total of 12 different stock tickers that had to be counted and find their total daily volume as well as their return percentage. With the original code we had, we were able to make more macros for certain functions such as clearing the worksheet, formatting, and making a button to automatically compute the data but as we got towards the end of the project we had to refactor the code to make it shorter and more efficient. It even ran the codes at a faster rate. 
 
